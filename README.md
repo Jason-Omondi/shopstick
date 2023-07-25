@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
 
 <p align="center">
-  <img src="flutter_getx_shopx.png" alt="flutter getx api app" title="Screenshot">
+  ![Screenshot_1690286634](https://github.com/Jason-Omondi/shopstick/assets/53213480/3ec71899-bdad-4b1b-8f9e-c298c93a64f0)
 </p>
 
 Online Make-Up Shopping App.
