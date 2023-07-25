@@ -1,4 +1,10 @@
 # ShopStick
+🎯 API integration | 📲 Staggered Grid View | 🔥 GetX<br>
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
+
+<p align="center">
+  <img src="flutter_getx_shopx.png" alt="flutter getx api app" title="Screenshot">
+</p>
 
 Online Make-Up Shopping App.
 
