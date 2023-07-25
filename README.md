@@ -1,12 +1,12 @@
-# shop
+# ShopStick
 
-Online Shopping App.
+Online Make-Up Shopping App.
 
 ## Getting Started
 
-This project is a starting point for a online shopping application called shopfick - showing API intergration using getX package.
+This project is a starting point for an online shopping application called shopstick - showing API integration using the getX package.
 
-A few resources to get you started if this is your first Flutter project:
+Here are a few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
